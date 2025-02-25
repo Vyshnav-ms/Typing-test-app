@@ -11,7 +11,7 @@ SwiftKeys is a modern, lightweight typing test application built with React, Nex
 - **No Scrolling**: Fixed layout ensures all content stays within the screen height, eliminating the need to scroll.
 
 ## Demo
-(Insert a link to a live demo here if you deploy it, e.g., on Vercel)
+https://shiftkeys.netlify.app/
 
 ## Installation
 
