@@ -19,3 +19,12 @@ SwiftKeys is a modern, lightweight typing test application built with React, Nex
    ```bash
    git clone https://github.com/your-username/swiftkeys.git
    cd swiftkeys
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+3. **Run the App**
+   ```bash
+   npm run dev
+   
+4. **Open http://localhost:3000 in your browser to start typing!**
